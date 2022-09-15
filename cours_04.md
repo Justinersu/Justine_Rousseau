@@ -2,19 +2,19 @@
 ## Décrire 5 emplois du domaine du multimédia
 Choisissez des emplois qui pourraient vous intéresser. 
 
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+### Emploi 1 - Édimestre
+L'édimestre est responsable de la gestion, de la rédaction et de la mise à jour de l'information contenue dans un site Web. Il assure la rédaction et la révision des textes, effectue et supervise le traitement et l'intégration des contenus sur le site Web, participe à l'amélioration et à la création des contenus, puis analyse les statistiques de fréquentation du site Web et fait des recommandations au besoin. L'édimestre travaille pour les éditeurs, radiodiffuseurs, télédiffuseurs et les entreprises de systèmes informatiques. Il peut aussi travailler pour des organisations scolaires, gouvernementales ou municipales. L'édimestre doit être autonome, créatif, organisé et responsable. Ce qui m'intéresse le plus dans ce métier, c'est avoir la possiblité de réaliser des tâches variées avec de fréquents changements. Ce qui m'intéresse le moins, c'est qu'il faut être à l'écoute des gens et apporter notre aide fréquemment.
 
-### Emploi 2 - Identification
-4 à 5 lignes
+### Emploi 2 - Graphiste
+Le graphiste conçoit, sous la direction d'un directeur artistique ou de façon autonome, la solution graphique en recherchant des hypothèses et en développant la conception de base de l'idée choisie. Il détermine les moyens les plus appropriés pour produire l'effet visuel recherché et la méthode de reproduction qui convient le mieux. Il travaille dans des agences de publicité, des entreprises de logiciels et de sites web et des éditeurs. Les qualités requises sont multiples: le graphiste doit être autonome, créatif, minutieux, organisé, observateur et ouvert d'esprit. Ce qui m'intéresse dans le graphisme, c'est la possibilité de devenir autonome et comment je pourrais exprimer ma créativité. Ce qui m'intéresse le moins, c'est comment ce domaine est extrêmement compétitif et les compétences de vente nécessaires pour grandir sa propre entreprise. 
 
-### Emploi 3 - Identification
-4 à 5 lignes 
+### Emploi 3 - Intégrateur web
+L'intégrateur web commence par dresser la liste de tous les éléments devant se retrouver à l'intérieur de l'application. Puis, il intègre les maquettes dans les pages Web et les interfaces, assemble les différents éléments graphiques et réalise les interfaces de présentation et de navigation. Il travaille principalement pour les éditeurs de logiciel et les entreprises de systèmes informatiques et sites web. Pour devenir intégrateur web, il faut être autonome, créatif, rigoureux, persévérant, responsable, observateur et avoir un esprit d'analyse. Ce qui m'intéresse le plus dans l'intégration web, c'est le fait que je peut développer mon sens artistique et mon sens technique. Ce qui m'intéresse le moins, c'est les plutôt grandes limites créatives imposées par l'employeur ou le client.
 
-### Emploi 4 - Identification
-4 à 5 lignes
+### Emploi 4 - Animateur 2D-3D
+L'artiste d'animation débute par analyser le scénario et prendre connaissance du type d'animations à réaliser. Ensuite, il conçoit et modélise les esquisses des personnages, des décors et des accessoires nécessaires à la réalisation du projet. C'est aussi lui qui est en charge d'appliquer les textures et les couleurs et de mettre en place les éclairages. L'animateur travaille dans les agences de publicité, pour les éditeurs de jeux vidéos et de logiciels et des entreprises de production de film et de matériel visuel. Ce type d'artiste doit être créatif, patient, polyvalent, rigoureux, minutieux et doit posséder un esprit critique. Un point qui m'intéresse dans ce métier c'est le côté créatif et ma passion pour les univers 3D. Ce qui m'intéresse le moins, c'est qu'il faut souvent réaliser des tâches répétitives.
 
-### Emploi 5 - Identification
-4 à 5 lignes
+### Emploi 5 - Scénariste interactif
+Le scénariste interactif collabore au développement du concept de base ainsi qu'à l'écriture du synopsis préliminaire du produit multimédia. Il fait des recherches et se documente sur les sujets du produit multimédia et sur son contexte. C'est lui qui élabore le scénario et produit puis fournit le schéma de navigation aux équipes artistiques et techniques. Il peut travailler à son compte, mais aussi pour les éditeurs de jeux vidéo et de logiciel. Le scénariste doit avoir de la facilité à communiquer et s'adapter. Il doit aussi posséder un esprit créatif, critique et d'analyse. Ce qui m'intéresse dans ce métier, c'est l'opportunité de partager son art de résoudre des problèmes. Ce qui m'intéresse le moins, c'est devoir travailler en relation avec des gens plutôt fréquemment.
 
 
